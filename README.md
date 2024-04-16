@@ -41,7 +41,7 @@ cd portfolio-LeonardoAndrade
 ```bash
 npm install
 ```
-## Usage 🐇
+## Usage 
 Once you've installed the dependencies, you can start the local development server:
 
 ```bash
@@ -49,7 +49,7 @@ npm run dev
 ```
 Visit `http://localhost:3000` in your browser to see your portfolio in action.
 
-## License 📚
+## License 
 
 This project is licensed under the [MIT License](LICENSE).
 
